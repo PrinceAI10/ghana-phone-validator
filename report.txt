@@ -1,0 +1,6 @@
+=== NETWORK REPORT ===
+MTN: 4 (44.4%)
+Vodafone: 2 (22.2%)
+AirtelTigo: 1 (11.1%)
+Unknown: 2 (22.2%)
+Total: 9 numbers
